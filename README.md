@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a Mentor at OGOGO Academy part time and at Moscow at Ninelines Agency Full - Time
 - 🌱 I’m currently learning Elixir(Erlang) + UX/UI
 - 👯 I’m looking to collaborate on React-TypeScript-NodeJS
-- 📫 How to reach me: Telegram:@Yuzeyzer, [Intsagram:@Y.f.maker](https://github.com/Yuzeyzer), Mobile: +996773152695
+- 📫 How to reach me: [Telegram:@Yuzeyzer](https://t.me/yuzeyzer), [Intsagram:@Y.f.maker](https://www.instagram.com/y.f.maker), Mobile: +996773152695
 - ⚡ Facts: I teach music (Guitar/Piano and Music Theory (Cmaj7 + Amin7add11 + Bdim7 + E7) Chord Progressions (2-5-1))
