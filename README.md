@@ -2,7 +2,7 @@
 
 Here some information about me:
 
-- 🔭 I’m currently working as a Mentor at OGOGO Academy part time and at Moscow at Ninelines Agency Full - Time
+- 🔭 I’m currently working as a Mentor at OGOGO Academy part time and at Moscow at Ninelines Agency for Full - Time
 - 🌱 I’m currently learning Elixir(Erlang) + UX/UI
 - 👯 I’m looking to collaborate on React-TypeScript-NodeJS
 - 📫 How to reach me: [Telegram:@Yuzeyzer](https://t.me/yuzeyzer), [Intsagram:@Y.f.maker](https://www.instagram.com/y.f.maker), Mobile: +996773152695
