@@ -2,7 +2,7 @@
 
 About me:
 
-- 🔭 I’m currently working as a Mentor at OGOGO Academy
+- 🔭 I’m currently working as a head of IT - Department at Q.codez
 - 🌱 I’m currently learning Elixir(Erlang) + UX/UI + WebGL + ThreeJS + 3D
 - 👯 I’m looking to collaborate on ReactJS-TypeScript-NodeJS-MongoDB Projects
 - 📫 How to reach me: [Telegram:@Yuzeyzer](https://t.me/yuzeyzer), [Intsagram:@Y.f.maker](https://www.instagram.com/y.f.maker), Mobile: +996773152695, E-mail: kurbanof.atabek@gmail.com
