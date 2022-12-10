@@ -1,7 +1,6 @@
 About me:
 
 - 🔭 Software Engineer at Introduct Group
-- 🌱 Head of IT - Department at Q.codez
 - 📫 How to reach me: [Telegram:@Yuzeyzer](https://t.me/yuzeyzer), [Intsagram:@Y.f.maker](https://www.instagram.com/y.f.maker), Mobile: +996773152695, E-mail: kurbanof.atabek@gmail.com
 - ⚡ Facts: I teach music (Guitar/Piano and Music Theory (Cmaj7 + Amin7add11 + Bdim7 + E7) Chord Progressions (2-5-1))
 
